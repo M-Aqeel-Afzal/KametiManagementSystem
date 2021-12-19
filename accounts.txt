@@ -1,0 +1,2 @@
+cnic-1234,FName-aqeel,LName-afzal,Contect-765,Address-isb,Gender-male,Registration_ID-1,Registration_Date-2021-12-19
+cnic-1,FName-abid,LName-hussain,Contect-234,Address-isb,Gender-male,Registration_ID-1,Registration_Date-2021-12-19
